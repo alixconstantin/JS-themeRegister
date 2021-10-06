@@ -9,6 +9,10 @@ html, body {
     padding: 15px;
     cursor: pointer;
   }
+
+  button:focus{
+    outline:none;
+  }
   
   * {
     outline: 0;
